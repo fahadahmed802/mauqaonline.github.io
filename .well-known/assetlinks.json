@@ -1,16 +1,9 @@
-{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf100
-{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
-{\colortbl;\red255\green255\blue255;}
-{\*\expandedcolortbl;;}
-\paperw11900\paperh16840\margl1440\margr1440\vieww10800\viewh8400\viewkind0
-\pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\pardirnatural\partightenfactor0
-
-\f0\fs24 \cf0 [\{\
-  "relation": ["delegate_permission/common.handle_all_urls"],\
-  "target": \{\
-    "namespace": "android_app",\
-    "package_name": "mauqa.com.workersapp",\
-    "sha256_cert_fingerprints":\
-    ["E6:B2:D1:65:94:A5:AA:9E:A3:C0:5A:D3:90:F7:A5:21:C6:04:B1:BF:EB:DB:49:7E:94:4F:E5:A0:1B:E9:16:53"]\
-  \}\
-\}]}
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "mauqa.com.workersapp",
+    "sha256_cert_fingerprints":
+    ["E6:B2:D1:65:94:A5:AA:9E:A3:C0:5A:D3:90:F7:A5:21:C6:04:B1:BF:EB:DB:49:7E:94:4F:E5:A0:1B:E9:16:53"]
+  }
+}]
